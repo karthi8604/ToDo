@@ -1,0 +1,40 @@
+body{
+    background-color: #181C14;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.container{
+    height: 50%;
+    min-height: 500px;
+    width: 50%;
+    background-color: #3C3D37 ;
+    color: #ECDFCC;
+    text-align: center;
+    margin-left: 25%;   
+}
+
+h1{
+    font-size: 50px;
+    padding-top: 30px;
+}
+
+#inp,button{
+    font-size: larger;
+    border-radius: 8px;
+    background-color: #E2DFD0;
+}
+
+#inp{
+    padding: 5px;   
+}
+
+button{
+    padding: 5px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.items{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
